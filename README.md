@@ -13,7 +13,7 @@ The solution has a collection of functions to interact with the API, and a singl
 - CheckAllowance: Check allowance allocated for token
 
 #### Load schedule data to database
-- WriteToDatabase: Get the area information for a specific area ID and write it to a database table - Pass in the Area ID
+- WriteToDatabase: Get the area information for a specific area ID and write it to a database table. The solution was made for a MS SQL Database but can be modified to work with any other database - Pass in the Area ID
 
 ### Try it out
 The table create script is included as Create Schedule Table Script.sql, create this table to load the schedule for an area with the WriteToDatabase function. 
