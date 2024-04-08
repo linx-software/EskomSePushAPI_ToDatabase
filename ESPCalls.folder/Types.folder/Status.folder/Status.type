@@ -1,0 +1,11 @@
+{
+  "Id": "k8u8",
+  "Name": "Status",
+  "Properties": [
+    {
+      "Id": "8ZPT",
+      "Name": "status",
+      "Type": "Custom:NBJl"
+    }
+  ]
+}

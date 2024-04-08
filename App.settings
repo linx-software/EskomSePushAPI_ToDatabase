@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "JqOP",
+    "Name": "DBConnectionString",
+    "Type": "Compiled:String",
+    "Value": "Data Source=;Initial Catalog=;Integrated Security=;User ID=;Password=;TrustServerCertificate=True;  "
+  },
+  {
+    "Id": "9YSR",
+    "Name": "ESPLisence",
+    "Type": "Compiled:String",
+    "Secret": true
+  },
+  {
+    "Id": "OmWz",
+    "Name": "ESPURI",
+    "Type": "Compiled:String",
+    "Value": "https://developer.sepush.co.za/business/2.0/"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "Id": "fa7l",
+  "Name": "CheckAllowance_allowance",
+  "Properties": [
+    {
+      "Id": "0isJ",
+      "Name": "count",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "kfWU",
+      "Name": "limit",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "J3K2",
+      "Name": "type",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "Id": "Esmf",
+  "Name": "Status_status_Type",
+  "Properties": [
+    {
+      "Id": "ZB6N",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "hXl0",
+      "Name": "next_stages",
+      "Type": "List:Custom:hxAR"
+    },
+    {
+      "Id": "3pgY",
+      "Name": "stage",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "mxON",
+      "Name": "stage_updated",
+      "Type": "Compiled:DateTime"
+    }
+  ]
+}

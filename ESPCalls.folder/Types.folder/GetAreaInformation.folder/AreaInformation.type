@@ -1,0 +1,21 @@
+{
+  "Id": "ANQq",
+  "Name": "AreaInformation",
+  "Properties": [
+    {
+      "Id": "di8G",
+      "Name": "events",
+      "Type": "List:Custom:9gjc"
+    },
+    {
+      "Id": "7QBE",
+      "Name": "info",
+      "Type": "Custom:8Ksw"
+    },
+    {
+      "Id": "D7ZB",
+      "Name": "schedule",
+      "Type": "Custom:5t3B"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "8Ksw",
+  "Name": "AreaInformation_info",
+  "Properties": [
+    {
+      "Id": "L526",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "RR6e",
+      "Name": "region",
+      "Type": "Compiled:String"
+    }
+  ]
+}

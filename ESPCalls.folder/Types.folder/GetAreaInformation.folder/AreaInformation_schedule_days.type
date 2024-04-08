@@ -1,0 +1,21 @@
+{
+  "Id": "hWv6",
+  "Name": "AreaInformation_schedule_days",
+  "Properties": [
+    {
+      "Id": "mkOJ",
+      "Name": "date",
+      "Type": "Compiled:DateTime"
+    },
+    {
+      "Id": "U1TE",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "PLx1",
+      "Name": "stages",
+      "Type": "List:List:Compiled:String"
+    }
+  ]
+}

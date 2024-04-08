@@ -1,0 +1,11 @@
+{
+  "Id": "hk8N",
+  "Name": "AreaSearch",
+  "Properties": [
+    {
+      "Id": "NMg7",
+      "Name": "areas",
+      "Type": "List:Custom:eCmN"
+    }
+  ]
+}

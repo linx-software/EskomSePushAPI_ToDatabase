@@ -1,0 +1,16 @@
+{
+  "Id": "5t3B",
+  "Name": "AreaInformation_schedule",
+  "Properties": [
+    {
+      "Id": "kLPE",
+      "Name": "days",
+      "Type": "List:Custom:hWv6"
+    },
+    {
+      "Id": "OKoX",
+      "Name": "source",
+      "Type": "Compiled:String"
+    }
+  ]
+}

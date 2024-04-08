@@ -1,0 +1,21 @@
+{
+  "Id": "9gjc",
+  "Name": "AreaInformation_events",
+  "Properties": [
+    {
+      "Id": "vqnY",
+      "Name": "end",
+      "Type": "Compiled:DateTime"
+    },
+    {
+      "Id": "htTp",
+      "Name": "note",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "2OVC",
+      "Name": "start",
+      "Type": "Compiled:DateTime"
+    }
+  ]
+}

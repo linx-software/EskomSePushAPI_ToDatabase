@@ -1,0 +1,16 @@
+{
+  "Id": "hxAR",
+  "Name": "Status_status_capetown_next_stages",
+  "Properties": [
+    {
+      "Id": "S3bU",
+      "Name": "stage",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "C5UB",
+      "Name": "stage_start_timestamp",
+      "Type": "Compiled:DateTime"
+    }
+  ]
+}

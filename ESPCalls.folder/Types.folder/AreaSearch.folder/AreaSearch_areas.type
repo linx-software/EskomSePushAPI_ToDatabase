@@ -1,0 +1,21 @@
+{
+  "Id": "eCmN",
+  "Name": "AreaSearch_areas",
+  "Properties": [
+    {
+      "Id": "hO74",
+      "Name": "id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "M73E",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "6rh5",
+      "Name": "region",
+      "Type": "Compiled:String"
+    }
+  ]
+}

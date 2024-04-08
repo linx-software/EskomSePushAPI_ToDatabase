@@ -1,0 +1,16 @@
+{
+  "Id": "NBJl",
+  "Name": "Status_status",
+  "Properties": [
+    {
+      "Id": "MT3R",
+      "Name": "capetown",
+      "Type": "Custom:Esmf"
+    },
+    {
+      "Id": "SGFK",
+      "Name": "eskom",
+      "Type": "Custom:Esmf"
+    }
+  ]
+}

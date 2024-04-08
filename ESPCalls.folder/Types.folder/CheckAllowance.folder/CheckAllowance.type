@@ -1,0 +1,11 @@
+{
+  "Id": "LOLt",
+  "Name": "CheckAllowance",
+  "Properties": [
+    {
+      "Id": "lCaq",
+      "Name": "allowance",
+      "Type": "Custom:fa7l"
+    }
+  ]
+}
